@@ -1,4 +1,4 @@
-# Real Time Currency Converter using API By: Sumedh, Mandar, Aniket, Pranjan
+
 # API link https://api.exchangerate-api.com/v4/latest/USD
 
 import requests
